@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/listView_item_height"
+    android:minHeight="@dimen/listView_item_height"
+    >
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_title"
+        android:textColor="@color/Primary_text"
+        android:text="test"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="@dimen/common_padding_left"/>
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_body"
+        android:textColor="@color/secondary_text"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="3dp"
+        android:layout_below="@id/content"
+        android:text="test"
+        android:layout_marginLeft="@dimen/common_padding_left"/>
+</RelativeLayout>

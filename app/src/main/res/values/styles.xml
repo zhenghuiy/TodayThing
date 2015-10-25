@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- 窗口的背景颜色 -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!--&lt;!&ndash; SearchView &ndash;&gt;-->
+        <!--<item name="searchViewStyle">@style/MySearchViewStyle</item>-->
+    </style>
+
+    <style name="DateTimePicker">
+        <item name="headerBackgroundColor">@android:color/white</item>
+        <item name="hightlightedTextColor">@color/Accent_color</item>
+        <item name="buttonBackground">@color/Accent_color</item>
+        <item name="buttonTextColor">@android:color/white</item>
+        <item name="circleHighlightColor">@android:color/white</item>
+        <item name="defaultTextColor">@color/secondary_text</item>
+        <item name="selectedDayTextSize">@dimen/text_display</item>
+        <item name="selectedMonthTextSize">@dimen/text_display</item>
+        <item name="selectedYearTextSize">@dimen/text_display</item>
+    </style>
+
+    <style name="WeekPickerButton">
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:background">@drawable/week_picker_layout_selector</item>
+    </style>
+
+</resources>
