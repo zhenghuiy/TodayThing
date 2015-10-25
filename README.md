@@ -1,5 +1,5 @@
 # TodayThing
-一款简单的 Material Design 风格的 to do list 应用，当时是为了尝试 Material Design 而做，因此项目比较简单
+一款简单的 Material Design 风格的 to do list 应用，当时是为了尝试 Material Design 而做，因此项目结构简单
 
 # ScreenShots
 ![](https://github.com/zhenghuiy/TodayThing/blob/master/Screenshot_2015-10-25-12-09-28.jpg)
