@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!--用于listView中作为纯色的divider，高度设置为1px比较美观-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/divider_color"
+        android:left="36dp" />
+</layer-list>

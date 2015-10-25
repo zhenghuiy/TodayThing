@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodayThing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="once_thing_title">once</string>
+    <string name="repeat_thing_title">repeat</string>
+    <string name="drawer_open">1</string>
+    <string name="drawer_close">0</string>
+    <string name="thing_content">Content</string>
+    <string name="thing_note">note</string>
+    <string name="to">to</string>
+
+    <!-- Menu -->
+    <string name="menu_day">Today</string>
+    <string name="menu_all">All</string>
+    <string name="menu_people">Friends</string>
+    <string name="menu_message">Message</string>
+    <string name="view_all">view all</string>
+    <string name="view_day">view day</string>
+    <string name="menu_settings">Settings</string>
+    <string name="delete">Delete</string>
+
+    <!-- edit -->
+    <string name="edit_delete_tip">Do you want to delete this thing?</string>
+    <string name="edit_delete_yes">Yes</string>
+    <string name="edit_delete_cancel">Cancel</string>
+
+    <!-- title -->
+    <string name="title_add">Add</string>
+
+    <!-- week -->
+    <string name="week_sunday">SUN</string>
+    <string name="week_mondy">MON</string>
+    <string name="week_tuesday">TUE</string>
+    <string name="week_wednesday">WED</string>
+    <string name="week_thursday">THU</string>
+    <string name="week_friday">FRI</string>
+    <string name="week_saturday">SAT</string>
+
+    <!-- login dialog -->
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_succeed">Login succeed</string>
+
+    <!-- register -->
+    <string name="repeat_password">Repeat password</string>
+    <string name="message_user_name_not_filled">Please fill in the user name</string>
+    <string name="message_password0_not_filled">Please fill in the password</string>
+    <string name="message_password1_not_filled">Please fill in the password again</string>
+    <string name="message_email_not_filled">Please fill in the email</string>
+    <string name="message_passwords_not_equal">Passwords not equal</string>
+    <string name="message_not_email">Please fill in correctly email</string>
+    <string name="register_succeed">Register succeed</string>
+
+    <!-- Message -->
+    <string name="add_friend_request">%1$s request to add your buddy</string>
+    <string name="status_done">passed</string>
+
+    <string name="loading">loading</string>
+    <string name="add_friend">Add friend</string>
+    <string name="search">Search</string>
+</resources>

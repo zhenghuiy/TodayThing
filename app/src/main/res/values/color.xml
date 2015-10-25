@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- toolbar（actionbar）颜色 -->
+    <color name="Primary_color">#2196F3</color>
+    <!-- 状态栏颜色 -->
+    <color name="PrimaryDark_color">#1974D2</color>
+    <!-- accent color -->
+    <color name="Accent_color">#03A9F4</color>
+    <!-- primary text -->
+    <color name="Primary_text">#212121</color>
+    <!-- light primary color -->
+    <color name="Light_Primary_color">#BBDEFB</color>
+    <!-- secondary text -->
+    <color name="secondary_text">#727272</color>
+    <!-- text/icon -->
+    <color name="text_icon">#FFFFFF</color>
+    <!-- divider color -->
+    <color name="divider_color">#B6B6B6</color>
+
+    <color name="week_bg">#F7F7F7</color>
+
+
+</resources>
